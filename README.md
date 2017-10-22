@@ -1,11 +1,9 @@
 # WEEK 6: Practice
 
-#### Look at the HTML in `index.html`
+#### Look at the HTML in `index.html` and the CSS in `style.css`
 * Look at the `id` on the `<body>`
 * Inside the `<body>` there is a `<div>` with the `id` "box" on it
-
-#### Look at the style in `style.css`
-* Answer the question in `style.css`
+* We used the `background-image` property to set the background 
 
 #### In `script.js` 
 ###### Let's make our box slowly fade in to the page!
