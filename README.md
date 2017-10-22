@@ -8,8 +8,10 @@
 #### In `script.js` 
 ###### Let's make our box slowly fade in to the page!
 * Select the box by it's `id` using jQuery and save it as a variable called `box`. Look at the example below:
-  ``` var exampleVariable = $("#example-id") ````
+  <br>
+  ``` var exampleVariable = $("#example-id") ```
 * In order to make the box fade in we first have to hide it. Use the jQuery `hide()` function to hide your `box`. It will look something like this example below.
+  <br>
   ``` exampleVariable.hide() ```
 * Now we can use the jQuery function `fadeIn()`. Your javascript will look something like this:
   ``` exampleVariable.hide()
