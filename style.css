@@ -1,0 +1,19 @@
+#index-body {
+  background-image: url(https://cdn.stocksnap.io/img-thumbs/960w/WUB1QV1JCC.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#box {
+  width: 60%;
+  margin: 0 auto; /* this centers the box */
+  margin-top: 25%;
+  background-color: rgba(250, 250, 250, .7);
+  padding: 20px;
+  text-align: center;
+}
+
+#welcome {
+  font-size: 40px;
+  font-weight: 900;
+}
