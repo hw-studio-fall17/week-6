@@ -8,12 +8,10 @@
 #### In `script.js` 
 ###### Let's make our box slowly fade in to the page!
 * Select the box by it's `id` using jQuery and save it as a variable called `box`. Look at the example below:
-  <br>
   ``` 
   var exampleVariable = $("#example-id") 
   ```
 * In order to make the box fade in we first have to hide it. Use the jQuery `hide()` function to hide your `box`. It will look something like this example below.
-  <br>
   ``` 
   exampleVariable.hide() 
   ```
@@ -22,7 +20,7 @@
     exampleVariable.hide()
     exampleVariable.fadeIn()
   ```
-* To make it fade in very slowly try passing a number in the () of the `fadeIn()` function. This number represents how many miliseconds it takes for the box to fadeIn(). Try `fadeIn(4000)`.
+* Make the fade slower. To make it fade in very slowly try passing a number in the () of the `fadeIn()` function. This number represents how many miliseconds it takes for the box to fadeIn(). Try `fadeIn(4000)`.
 
 ### BONUS in `style.css`
 * What does the .7 do in `rgba(250, 250, 250, .7)`? What happens if you change it to .3?
