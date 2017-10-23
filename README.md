@@ -3,7 +3,7 @@
 #### Look at the HTML in `index.html` and the CSS in `style.css`
 * Look at the `id` on the `<body>`
 * Inside the `<body>` there is a `<div>` with the `id` "box" on it
-* We used the `background-image` property to set the background 
+* We used the `background-image` property in `style.css` to set the background 
 
 #### In `script.js` 
 ###### Let's make our box slowly fade in to the page!
